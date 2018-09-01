@@ -1,16 +1,17 @@
 {
     "author": "Elsa Ng",
-    "name": "censory",
+    "name": "zensory",
     "version": "1.0.0",
     "description": "Censors and replaces sensitive words with ****",
-    "main": "censor",
+    "main": "zensor",
     "repository": {
         "type": "git",
         "url": "https://github.com/elsa-ng/censory"
     },
     "keywords": [
         "censor",
-        "text"
+        "text",
+        "zensor"
     ],
     "dependencies": {},
     "engines": {
