@@ -13,6 +13,7 @@
         "text",
         "zensor"
     ],
+    "license": "MIT",
     "dependencies": {},
     "engines": {
         "node": "*"
