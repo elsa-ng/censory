@@ -1,0 +1,11 @@
+{
+    "author": "Elsa Ng",
+    "name": "censory",
+    "version": "1.0.0",
+    "description": "Censors and replaces sensitive words with ****",
+    "main": "censortext",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
