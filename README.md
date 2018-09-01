@@ -1,6 +1,6 @@
 # Censory
 
-Censory is a Node Packaged Module that censors and replaces predefined sensitive words with "****". Custom words can be added and removed by users.
+Censory is a Node Packaged Module that censors and replaces predefined sensitive words with "****". Custom words can be added and removed by calling the corresponding functions.
 
 ## Install
 
