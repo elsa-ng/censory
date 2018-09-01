@@ -42,6 +42,10 @@ To retrieve all censor words:
 getAllCensoredWords()
 ```
 
+## Authors
+
+* [**Elsa Ng**](https://github.com/elsa-ng)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
